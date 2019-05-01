@@ -1,5 +1,5 @@
-# goers coding test from project euler
-# goerstest
+# GOERS coding test from project euler
+
 GOERS Coding test application
 
 1. Sum Square Differnces
